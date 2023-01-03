@@ -13,11 +13,7 @@ Aperfeiçoando meus conhecimentos em HTML, CSS, JavaScript Git/Github. Imagens d
 
 ![preview](https://user-images.githubusercontent.com/87999015/210431137-700253e9-a1ac-4711-b1a8-8e502e6f649c.png)
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
-📁 [Clique para acessar](https://hnrckc.github.io/burn/)
+📁 [Clique para acessar](https://hnrckc.github.io/calend-rio_copa/)
 
 ## 🧑‍💻 Tecnologias
 
